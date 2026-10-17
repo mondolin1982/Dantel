@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dantel.afnes.com/sitemap.xml
